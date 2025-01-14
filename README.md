@@ -1,2 +1,2 @@
 # Django-Tutorial-II-
-A follow up tutorial on django for a simple to-do list app, used class baseed views, didnt understand shit... hehe
+A follow up tutrial on Django to build a todo list app. Cliche I know
